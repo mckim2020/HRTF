@@ -1,3 +1,5 @@
+% This function merges all sequence signals into one sequence respect to discrete time domain
+
 % Read data from wav file 
 %{
 [y1, Fs1] = audioread('test1.wav');
